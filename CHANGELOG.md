@@ -8,6 +8,10 @@ what was there) bumps the first. See `.githooks/version.js`.
 Entries before 2026-10-14 were rebuilt from the history: the commits had no prefix, so
 each one was classified by what it touched, counting its largest change.
 
+## 1.3.0 (2026-11-20)
+
+feat: legal pages for Salud (home, privacy policy)
+
 ## 1.2.0 (2026-11-06)
 
 feat: legal pages for Campaign Tool (home, privacy policy, terms of service)
